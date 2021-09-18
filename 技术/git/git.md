@@ -20,7 +20,8 @@ git push origin main
 
 ![20210918104355_fe4f58dd1aacf1421ab16c52affff7b9.png](https://zjj-1307432767.cos.ap-shanghai.myqcloud.com/20210918104355_fe4f58dd1aacf1421ab16c52affff7b9.png?q-sign-algorithm=sha1&q-ak=AKIDvgBQO5VeWZMs74l8G7gyzjCPL1RbU5PU&q-sign-time=1631933035;1663469035&q-key-time=1631933035;1663469035&q-header-list=&q-url-param-list=&q-signature=cebaa845d8bf3f11b426cc76192a64f2d469f1a7)!
 
-## 线上新增 线下更新
-线上更新 
+- 线下拉取就好
+
+
 
 

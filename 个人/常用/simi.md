@@ -1,4 +1,5 @@
 
+腾讯cos 
 Tencent COSUpload: Bucket
 存储桶名称，如a-1250000000  : zjj-1307432767
 
