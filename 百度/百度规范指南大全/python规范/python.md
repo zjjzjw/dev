@@ -1,7 +1,10 @@
 ![20210918154942_7963c40f2cd7f4db1c91549ecc4c0fd6.png](https://zjj-1307432767.cos.ap-shanghai.myqcloud.com/20210918154942_7963c40f2cd7f4db1c91549ecc4c0fd6.png?q-sign-algorithm=sha1&q-ak=AKIDvgBQO5VeWZMs74l8G7gyzjCPL1RbU5PU&q-sign-time=1631951382;1663487382&q-key-time=1631951382;1663487382&q-header-list=&q-url-param-list=&q-signature=522c781228e501a4a6dcc94985f8e26522f092ab)
 
 
+
+
 1. 前言
+
 1.1. 一般信息[重要必读]
 此编码风格指南主要基于 Google Python Style Guide [中译版]，结合百度python使用习惯和实际开发情况制定。
 
